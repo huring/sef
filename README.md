@@ -2,4 +2,4 @@
 
 Initial release
 
-(c) Helikopter Brand Design 2016
+(c) 2016 - Helikopter Brand Design 
