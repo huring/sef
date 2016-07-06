@@ -1,0 +1,14 @@
+.meta-th {
+    display: inline-block;
+    float: left;
+    width: 170px;
+    font-weight: bold;
+}
+.meta-tr {
+    display: inline-block;
+    float: right;
+
+}
+select {
+    width: 170px;
+}
