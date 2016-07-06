@@ -5,6 +5,7 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package Naturens_Basta
+ * Testing
  */
 
 if ( ! function_exists( 'naturens_basta_setup' ) ) :
